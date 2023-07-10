@@ -255,3 +255,35 @@ body {
 .buy {
     margin: 20px;
 }
+
+/* get deals section  */
+
+.email-submission {
+    display: flex;
+}
+
+.email-submission button {
+    margin-left: 10px;
+}
+
+.get-deals {
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.get-deals-details {
+    padding: 50px 400px;
+    margin-bottom: 100px;
+    background-image: url("../Flower Asset/Rectangle 9.png");
+
+}
+
+.get-deals-details input {
+    border: none;
+    width: 300px;
+    border-radius: 5px;
+}
