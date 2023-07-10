@@ -287,3 +287,20 @@ body {
     width: 300px;
     border-radius: 5px;
 }
+
+/* footer section  */
+
+.footer-background {
+    background-color: #111010;
+    color: white;
+
+}
+
+.footer-details {
+    padding: 70px 400px;
+    text-align: center;
+}
+
+.flower-color {
+    color: #E55473;
+}
